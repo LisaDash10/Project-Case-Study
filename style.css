@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+
+.header img{
+    height: 60px;
+    width: 75px;
+}
+
+.text_images_result {
+    width: 600px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 18px grey;
+    border-radius: 20px;
+}
+
+.result_div {
+    background: violet;
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px;    
+}
+
+li img {
+    height: 500px;
+    width: 550px;
+}
+
+.conclusion {
+    background:burlywood;
+    border-radius: 15px;
+}
