@@ -30,4 +30,7 @@ li img {
 .conclusion {
     background:burlywood;
     border-radius: 15px;
+    padding: 5px;
+    width: 50%;
+    box-shadow: 3px 3px 16px grey;
 }
